@@ -1,0 +1,90 @@
+body {
+    background-image: url("backgroundTable.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.row {
+    margin: auto;
+    padding: 10px;
+}
+
+.navbar-custom {
+    background-color: lightgreen;
+}
+
+.navbar {
+    border-radius: 8%;
+
+}
+.navbarHeader {
+    position: absolute;
+    left: 50%;
+}
+
+.riadok {
+    position: absolute;
+    top: 100px;
+    left: 30px;
+}
+
+.bunka {
+    display: inline-block;
+    position: relative;
+    background-color: #28a745;
+    width: 500px;
+    height: 300px;
+}
+
+.kuchyna {
+    width: 800px;
+    height: 700px;
+
+}
+.stred {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+
+.infoska {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+.text {
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
+
+.obrazcek {
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    top: 30px;/*
+    right: 30px;*/
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.paleta {
+
+    background-color: #28a745;
+
+}
+
+.bc {
+    background-color: #28a745;
+}
+
+
+
